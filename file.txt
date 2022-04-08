@@ -5,3 +5,5 @@ This is a sample textual file, with nothing special about it,
 -1 Applied edit (1) new edit
 
 -2 Applied edit in master conflict
+
+-3 Third line of code
