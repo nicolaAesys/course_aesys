@@ -1,0 +1,5 @@
+This is a sample textual file, with nothing special about it,
+"Lorem Ipsum"
+
+
+-1 Applied edit (1) new edit
